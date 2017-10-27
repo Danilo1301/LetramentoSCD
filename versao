@@ -1,9 +1,12 @@
-{"version":"0.3.7", changelog:"
+{"version":"0.3.8", changelog:"
 [0.3.7] - 21/10/2017
 + Adicionado Sistema de cadastro
 + Adicionado Confirmação de email
 ~ Modificado Sistema de atualização
 = Corrigido Sistema de cadastro
 = Outras correções no código
+
+[0.3.8] - 27/10/2017
++ Adicionado nada :P
 
 "}

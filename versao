@@ -1,9 +1,14 @@
-{"version":"0.3.7", changelog:"
-[0.3.7] - 21/10/2017
-+ Adicionado Sistema de cadastro
-+ Adicionado Confirmação de email
-~ Modificado Sistema de atualização
-= Corrigido Sistema de cadastro
-= Outras correções no código
-
+{"version":"0.4", "url":"", "changelog":"
+[0.3.7] - 21/10/2017\n
++ Adicionado Sistema de cadastro\n
++ Adicionado Confirmação de email\n
+~ Modificado Sistema de atualização\n
+= Corrigido Sistema de cadastro\n
+= Outras correções no código\n
+\n
+[0.4] - 28/10/2017\n
++ Adicionado Tela de aulas\n
+- Tela Principal removida\n
+~ Modificado Sistema de atualizações\n
+= Correções no Menu
 "}
